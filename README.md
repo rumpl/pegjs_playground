@@ -1,2 +1,2 @@
-My PEGjs playground.
+My PEG.js playground.
 
